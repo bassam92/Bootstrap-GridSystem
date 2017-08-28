@@ -1,4 +1,4 @@
-# Boostrap-GridSystem
+# Bootstrap-GridSystem
 
 This is small demo application with labels explaining the Bootstrap row and column grid layout.
 
